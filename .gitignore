@@ -1,0 +1,12 @@
+venv/
+env/
+data/raw/*
+data/analysis/*
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.log
+.idea/
+.vscode/
